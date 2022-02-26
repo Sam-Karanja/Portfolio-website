@@ -1,0 +1,49 @@
+body{
+    margin: none;
+    padding: 0%;
+    text-decoration: none;
+
+
+}
+
+.header{
+    width: 100vw;
+    align-items: center;
+    padding: 20px;
+    background-color: aliceblue;
+    justify-content: space-around;
+}
+
+.logo{
+    display: flex;
+}
+
+.tabs{
+    float: right;
+    display: flex;
+    list-style: none;
+    padding-right: 100px;
+
+}
+.tabs a{
+    text-decoration: none;
+    padding: 30px;
+    font-size: large;
+ 
+}
+
+.btns{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+#profile{
+    border-radius: 50%;
+ 
+}
+#name{
+    font-size: x-large;
+    padding-left: 30px;
+}
+
