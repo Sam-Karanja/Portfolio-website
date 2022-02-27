@@ -1,7 +1,7 @@
 body {
   margin: none;
   padding: 0%;
-  background-color: rgb(75, 75, 75);
+  /* background-color: rgb(75, 75, 75); */
 }
 .about {
   align-items: center;
@@ -11,7 +11,6 @@ body {
 }
 
 .btn {
-  text-align: center;
   border-radius: 10px;
   text-decoration: none;
 }
@@ -21,20 +20,32 @@ body {
   font-size: x-large;
 }
 
-.description{
-text-align: center;
-padding: 40px;
-font-size: large;
+.description {
+  text-align: center;
+  padding: 40px;
+  font-size: large;
 }
 
-.technical{
-    text-align: center;
-    padding: 40px;
-    font-size: x-large
+.technical {
+  text-align: center;
+  padding: 40px;
+  font-size: x-large;
 }
 
-.row1, .row2{
-    display: flex;
-    justify-content: space-around;
-    font-size: larger;
+.row1,
+.row2 {
+  display: flex;
+  justify-content: space-around;
+  font-size: larger;
+}
+
+.offer {
+  display: flex;
+  justify-content: space-around;
+  font-size: larger;
+  padding: 20px;
+}
+
+h3 {
+  text-align: center;
 }
