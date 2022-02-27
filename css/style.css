@@ -33,6 +33,11 @@ body {
 
 }
 
+#profile1 {
+    border-radius: 50%
+  
+  }
+
 #name {
   font-size: x-large;
   padding-left: 30px;
