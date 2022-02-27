@@ -1,49 +1,50 @@
-body{
-    margin: none;
-    padding: 0%;
-    text-decoration: none;
+body {
+  margin: none;
+  padding: 0%;
+  text-decoration: none;
+}
 
+.header {
+  width: 100vw;
+  align-items: center;
+  padding:20, 20, 0  20;
+  background-color: aliceblue;
+  justify-content: space-around;
+}
+
+.logo {
+  display: flex;
+}
+
+.tabs {
+  float: right;
+  display: flex;
+  list-style: none;
+  padding-right: 100px;
+}
+.tabs a {
+  text-decoration: none;
+  padding: 30px;
+  font-size: large;
+}
+
+#profile {
+  border-radius: 50%;
 
 }
 
-.header{
-    width: 100vw;
-    align-items: center;
-    padding: 20px;
-    background-color: aliceblue;
-    justify-content: space-around;
+#name {
+  font-size: x-large;
+  padding-left: 30px;
 }
 
-.logo{
-    display: flex;
-}
-
-.tabs{
-    float: right;
-    display: flex;
-    list-style: none;
-    padding-right: 100px;
-
-}
-.tabs a{
-    text-decoration: none;
-    padding: 30px;
-    font-size: large;
- 
-}
-
-.btns{
-    display: flex;
+.intro {
     text-align: center;
-    align-items: center;
-}
+    height: 80vh;
+    font-size: xx-large;
 
-#profile{
-    border-radius: 50%;
- 
-}
-#name{
-    font-size: x-large;
-    padding-left: 30px;
+    padding: 50px;
+    color: rgb(255, 255, 255);
+    background-image: url('/images/img1.jpeg');
 }
 
