@@ -49,11 +49,7 @@ body {
 .html,
 .javascript,
 .bootstrap {
-  background-color: rgb(39, 37, 37);
-  padding: 30px;
-  color: rgb(224, 212, 204);
-  border-radius: 30px;
-  margin: 30px;
+ 
 }
 
 h3 {
