@@ -53,3 +53,10 @@ body {
     background-image: url('/images/img1.jpeg');
 }
 
+.copyright{
+  text-align: center;
+  background-color: rgb(160, 158, 158);
+  padding: 10px;
+  font-size: large;
+}
+
