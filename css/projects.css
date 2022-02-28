@@ -1,32 +1,34 @@
-body{
-    background-color: rgb(109, 104, 104);
+body {
+  background-color: rgb(109, 104, 104);
 }
 
-h3{
-    text-align: center;
+h3 {
+  text-align: center;
 }
-.space1, .space2{
-   display:flex;
-   justify-content: space-around;
+.space1,
+.space2 {
+  display: flex;
+  justify-content: space-around;
 }
 
-.p-one, .p-two, .p-three, .p-four{
-    background-color: rgb(39, 37, 37);
+.p-one,
+.p-two,
+.p-three,
+.p-four {
+  background-color: rgb(39, 37, 37);
   padding: 30px;
   color: rgb(224, 212, 204);
   border-radius: 30px;
   margin: 30px;
 }
 
+.buttons {
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
 
-.buttons{
-    margin: 20px;
-    padding: 10px;
-    border-radius: 10px;
-  }
-  
-
-  .buttons a{
-    text-decoration: none;
-    font-size: large;
-  }
+.buttons a {
+  text-decoration: none;
+  font-size: large;
+}

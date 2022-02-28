@@ -49,7 +49,6 @@ body {
 .html,
 .javascript,
 .bootstrap {
- 
 }
 
 h3 {
@@ -57,7 +56,7 @@ h3 {
 }
 
 .offer {
-    background-color: rgb(109, 104, 104);
+  background-color: rgb(109, 104, 104);
   display: flex;
   justify-content: space-around;
   font-size: larger;

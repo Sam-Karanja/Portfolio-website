@@ -7,7 +7,7 @@ body {
 .header {
   width: 100vw;
   align-items: center;
-  padding:20, 20, 0  20;
+  padding: 20, 20, 0 20;
   background-color: aliceblue;
   justify-content: space-around;
 }
@@ -30,13 +30,11 @@ body {
 
 #profile {
   border-radius: 50%;
-
 }
 
 #profile1 {
-    border-radius: 50%
-  
-  }
+  border-radius: 50%;
+}
 
 #name {
   font-size: x-large;
@@ -44,21 +42,40 @@ body {
 }
 
 .intro {
-    text-align: center;
-    height: 80vh;
-    font-size: xx-large;
+  text-align: center;
+  height: 80vh;
+  font-size: xx-large;
 
-    padding: 50px;
-    color: rgb(255, 255, 255);
-    background-image: url('/images/img1.jpeg');
+  padding: 50px;
+  color: rgb(255, 255, 255);
+  background-image: url("/images/img1.jpeg");
 }
 
-.copyright{
+.copyright {
   text-align: center;
   background-color: rgb(160, 158, 158);
   padding: 10px;
   font-size: large;
 }
 
+.footer {
+  display: flex;
+  padding: 30px;
+  background-color: #2e2e31;
+  justify-content: center;
+}
 
+.phone,
+.mail,
+.location,
+.facebook,
+.twitter,
+.instagram {
+  display: flex;
+  margin: 30px;
+}
 
+.imgs {
+  border-radius: 10px;
+  margin-right: 10px;
+}
