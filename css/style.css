@@ -48,6 +48,9 @@ body {
   padding: 50px;
   color: rgb(255, 255, 255);
   background-image: url("/images/img1.jpeg");
+  background-color: rgb(109, 104, 104);
+  
+  
 }
 
 .copyright {
