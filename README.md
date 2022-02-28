@@ -17,8 +17,8 @@ Here is a live link to the website. https://karanjasam210.github.io/Portfolio-we
 * Browse the site at your own convenience
 
 ### Technologies
-*HTML- For structuring the webpage.
-*CSS- For styling the webpage.
+* HTML- For structuring the webpage.
+* CSS- For styling the webpage.
 
 ### To-Do
 * Make the site more responsive.
