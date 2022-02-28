@@ -45,12 +45,10 @@ body {
   text-align: center;
   height: 80vh;
   font-size: xx-large;
-
   padding: 50px;
   color: rgb(255, 255, 255);
-  background-color: rgb(109, 104, 104);
+  background-image: url("/images/img1.jpeg");
 }
-
 
 .copyright {
   text-align: center;
