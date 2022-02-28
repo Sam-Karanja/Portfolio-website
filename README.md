@@ -1,6 +1,8 @@
 
 #### Version v1.1.0
 
+![landing page]("/images/landing-page.png")
+
 ### Description
 This is a my portfolio website that shows who I am as a developer, some of the projects that I've previously worked on, the technologies I use and my contact information.
 
